@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aashish-J
+- 👋 Hi, I’m Aashish-J-Yadav
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Mern Stack, Web Development.
 - 💞️ I’m looking to collaborate on Web Development Using Mern and Mean Stack
